@@ -9,6 +9,6 @@ Results are displayed on a separate page, and clicking on a recipe opens a page 
 
 ##Installation and launch
 -----|cd Test-App|----- -----|npm install|----- -----|npm run dev|----- -----|open u browser|-----
-![HomePage]((https://github.com/GeneralKFC/Test-App/blob/master/screenshots/HomePage.jpg))
-![Recipes]((https://github.com/GeneralKFC/Test-App/blob/master/screenshots/SearchPage.jpg))
-![Recipe-details]((https://github.com/GeneralKFC/Test-App/blob/master/screenshots/DetailsPage.jpg))
+![HomePage]((./Test-App/blob/master/screenshots/HomePage.jpg))
+![Recipes]((./Test-App/blob/master/screenshots/SearchPage.jpg))
+![Recipe-details]((./Test-App/blob/master/screenshots/DetailsPage.jpg))
