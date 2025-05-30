@@ -9,3 +9,6 @@ Results are displayed on a separate page, and clicking on a recipe opens a page 
 
 ##Installation and launch
 -----|cd Test-App|----- -----|npm install|----- -----|npm run dev|----- -----|open u browser|-----
+![HomePage](./screenshots/HomePage.png)
+![Recipes](./screenshots/SearchPage.png)
+![Recipe-details](./screenshots/DetailsPage.png)
